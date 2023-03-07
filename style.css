@@ -19,7 +19,7 @@ background: linear-gradient(to right, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, F
 #contenedor {
     text-align: center;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-columns: auto auto auto ;
     gap: 10px;
 }
 #box1, #box2, #box3{
